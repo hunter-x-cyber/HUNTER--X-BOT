@@ -44,11 +44,11 @@ const { truth } = require('@bochilteam/scraper');
 const { translate } = require('@vitalets/google-translate-api');
 
 // --- BOT CONFIGURATION ---
-const OWNER_NUMBER = "2347061696819";
-const OWNER_NAME = "𝐆𝐑𝐄𝐀𝐓_𝐃𝐄𝐌𝐎𝐍";
-const BOT_NAME = "𝐆𝐑𝐄𝐀𝐓_𝐃𝐄𝐌𝐎𝐍 𝐕4";
-const BOT_VERSION = "v4 ULTRA";
-const MENU_IMAGE_URL = "https://i.postimg.cc/C5nJz4BG/1793460010889.jpg";
+const OWNER_NUMBER = "2347070751286";
+const OWNER_NAME = "HUNTER-X";
+const BOT_NAME =  "HUNTER-X-BOT";
+const BOT_VERSION = "v3 PRO";
+const MENU_IMAGE_URL = "https://i.postimg.cc/Hsgwtxg7/IMG-20261115-153541-612.jpg";
 const PURPLE_COLOR = '#9C27B0';
 const startTime = Date.now();
 
