@@ -1244,10 +1244,10 @@ async function startDemonBot(options = {}) {
 "✿ androidcrash\n✿ bugmenu\n✿ gccrash\n✿ hd\n✿ iosfc\n✿ ocr\n✿ removebg\n✿ screenshot\n✿ searchmenu\n✿ toolmenu\n✿ ping\n" +
 "╰━━━━━━━━━━━━━━━━━━━━━━━┈\n\n" +
 "╭━━━〔 👑 *𝘼𝘽𝙊𝙐𝙏 𝘾𝙍𝙀𝘼𝙏𝙊𝙍* 👑 〕━━━┈\n" +
-"┃ 👑 *CREATOR:* ᴵᴬᴹ«»ᘜяᥱᥲт ᗪᥱмση ᙓмρ\n" +
-"┃ 📞 *CONTACT:* +2347061696819\n" +
-"┃ 🛡️ *IDENTITY:* 𝐰𝐡𝐲 𝐚𝐥𝐰𝐚𝐲𝐬 𝐊𝐞𝐥𝐯𝐢𝐧\n" +
-"┃ 🐙 *GITHUB:* too lazy to put my git acc\n" +
+"┃ 👑 *CREATOR:* CREATOR:* ᴵᴬᴹ«»HUNTER-X\n" + 
+"┃ 📞 *CONTACT:* +2347070751286\n" +
+"┃ 🛡️ *IDENTITY:*HUNTER-X\n" +
+"┃ 🐙 *GITHUB:* https://github.com/hunter-x-cyber/HUNTER--X-BOT\n" +
 "┃\n" +
 "┃ 💐 _\"𝙏𝒉𝒆 𝙁𝒓𝒂𝒈𝒓𝒂𝒏𝒕 𝒇𝒍𝒐𝒘𝒆𝒓𝒔 𝘽𝒍𝒐𝒐𝒎𝒔 𝒘𝒊𝒕𝙝 𝘿𝒊𝒈𝒏𝒊𝒕𝒚\"_\n" +
 "╰━━━━━━━━━━━━━━━━━━━━━━━┈\n\n";
