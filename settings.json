@@ -1,0 +1,15 @@
+{
+  "botMode": "private",
+  "prefix": ".",
+  "sudoUsers": ["2347061696819"],
+  "autoSettings": {
+    "autoonline": true,
+    "autorecording": false,
+    "autostatuslike": true,
+    "autostatusview": true,
+    "autotyping": false,
+    "chatbot": true,
+    "anticall": true
+  },
+  "groupSettings": {}
+}
