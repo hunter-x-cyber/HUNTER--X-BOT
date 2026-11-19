@@ -2280,9 +2280,9 @@ if (autoSettings?.autoreact && !msg.key.fromMe && msg.message) {
                     '✦ .funmenu\n✦ .allmenu\n' +
                     '╰━━━━━━━━━━━\n\n' +
                     '╭━━━〔 👑 *𝘼𝘽𝙊𝙐𝙏 𝘾𝙍𝙀𝘼𝙏𝙊𝙍* 👑 〕━━━┈\n' +
-                    '┃ 👑 *CREATOR:* ᴵᴬᴹ«»ᘜяᥱᥲт ᗪᥱмση ᙓмρ\n' +
-                    '┃ 📞 *CONTACT:* +2347061696819\n' +
-                    '┃ 🛡️ *IDENTITY:* 𝐰𝐡𝐲 𝐚𝐥𝐰𝐚𝐲𝐬 𝐊𝐞𝐥𝐯𝐢𝐧\n' +
+                    '┃ 👑 *CREATOR:* ᴵᴬᴹ«𝙃𝙐𝙉𝙏𝙀𝙍 𝙓\n" +
+                    '┃ 📞 *CONTACT:* +2347070751286\n' +
+                    '┃ 🛡️ *IDENTITY:* 𝐰𝐡𝐲 𝐚𝐥𝐰𝐚𝐲𝐬 𝙃𝙐𝙉𝙏𝙀𝙍 𝙓\n"' +
                     '┃ 🐙 *GITHUB:*  Uhm Later\n' +
                     '┃\n' +
                     '┃ 💐 _"𝙏𝒉𝒆 𝙁𝒓𝒂𝒈𝒓𝒂𝒏𝒕 𝒇𝒍𝒐𝒘𝒆𝒓𝒔 𝘽𝒍𝒐𝒐𝒎𝒔 𝒘𝒊𝙩𝙝 𝘿𝒊𝒈𝒏𝒊𝙩𝙮"_\n' +
