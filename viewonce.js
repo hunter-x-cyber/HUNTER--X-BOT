@@ -46,3 +46,4 @@ source = source.slice(0, sendIndex) + metaNode + source.slice(sendIndex);
 fs.writeFileSync(target, source, 'utf8');
 console.log('[HUNTER X PATCH] Applied Baileys View Once mediatype + stanza metadata fixes.');
 
+
